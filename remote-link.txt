@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://mary-css-democrats-joining.trycloudflare.com/vnc.html
+URL       : https://detector-cookbook-apps-affiliates.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-05 17:17:21
+Created   : 2026-09-05 22:04:03
 =======================================================
