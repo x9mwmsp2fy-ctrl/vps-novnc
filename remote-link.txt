@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://has-prove-meaningful-vegas.trycloudflare.com/vnc.html
+URL       : https://allows-warning-friendship-high.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-07 19:07:11
+Created   : 2026-09-07 22:46:23
 =======================================================
