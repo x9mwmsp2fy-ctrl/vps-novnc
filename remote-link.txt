@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://allows-warning-friendship-high.trycloudflare.com/vnc.html
+URL       : https://roster-admission-burns-members.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-07 22:46:23
+Created   : 2026-09-08 04:17:08
 =======================================================
