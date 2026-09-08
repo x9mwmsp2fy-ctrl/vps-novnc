@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://roster-admission-burns-members.trycloudflare.com/vnc.html
+URL       : https://settlement-rat-think-projected.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-08 04:17:08
+Created   : 2026-09-08 09:32:58
 =======================================================
