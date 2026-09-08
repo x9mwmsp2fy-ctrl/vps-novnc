@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://settlement-rat-think-projected.trycloudflare.com/vnc.html
+URL       : https://crawford-institute-corporation-patient.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-08 09:32:58
+Created   : 2026-09-08 14:23:45
 =======================================================
