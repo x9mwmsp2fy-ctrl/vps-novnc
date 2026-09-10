@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://diagnostic-examinations-choosing-graph.trycloudflare.com/vnc.html
+URL       : https://induced-quilt-camcorders-exist.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-10 14:17:27
+Created   : 2026-09-10 18:18:58
 =======================================================
