@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://orchestra-illustration-wins-template.trycloudflare.com/vnc.html
+URL       : https://gale-assess-thursday-manhattan.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-15 04:38:08
+Created   : 2026-09-15 10:00:44
 =======================================================
