@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://irrigation-initial-preferred-letters.trycloudflare.com/vnc.html
+URL       : https://verbal-better-artists-engineers.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-18 14:22:04
+Created   : 2026-09-18 18:19:58
 =======================================================
