@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://gif-conceptual-people-fired.trycloudflare.com/vnc.html
+URL       : https://ellis-prostores-negotiation-enlarge.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-16 22:46:28
+Created   : 2026-10-17 04:10:22
 =======================================================
