@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://huntington-department-eagles-emma.trycloudflare.com/vnc.html
+URL       : https://phase-slides-bottles-precisely.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-19 20:32:43
+Created   : 2026-10-20 04:32:50
 =======================================================
