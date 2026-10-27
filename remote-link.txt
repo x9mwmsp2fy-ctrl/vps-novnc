@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://steps-jury-incredible-marketing.trycloudflare.com/vnc.html
+URL       : https://view-lectures-oasis-played.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-27 04:44:35
+Created   : 2026-10-27 10:22:38
 =======================================================
