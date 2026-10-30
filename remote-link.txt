@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://proposal-hand-shopper-que.trycloudflare.com/vnc.html
+URL       : https://employers-gui-sells-cart.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-29 23:55:18
+Created   : 2026-10-30 05:34:36
 =======================================================
