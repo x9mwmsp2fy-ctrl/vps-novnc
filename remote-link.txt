@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://diagnosis-polymer-food-asbestos.trycloudflare.com/vnc.html
+URL       : https://approval-string-nose-organizational.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-31 23:18:18
+Created   : 2026-11-01 05:44:02
 =======================================================
