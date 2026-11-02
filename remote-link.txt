@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://exempt-pda-redeem-singer.trycloudflare.com/vnc.html
+URL       : https://plain-school-turner-certain.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-02 05:42:24
+Created   : 2026-11-02 20:13:16
 =======================================================
