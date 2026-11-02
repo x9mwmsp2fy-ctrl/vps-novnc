@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://poly-traveller-findlaw-communist.trycloudflare.com/vnc.html
+URL       : https://exempt-pda-redeem-singer.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-01 23:30:41
+Created   : 2026-11-02 05:42:24
 =======================================================
