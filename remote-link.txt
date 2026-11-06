@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://standings-varying-stylish-dealer.trycloudflare.com/vnc.html
+URL       : https://cathedral-incentive-irrigation-routes.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-05 17:58:44
+Created   : 2026-11-06 00:58:44
 =======================================================
